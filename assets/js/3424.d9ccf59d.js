@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[3424],{3424:(e,c,s)=>{s.d(c,{createArchitectureServices:()=>r.S});var r=s(4318);s(1028)}}]);
